@@ -1,0 +1,11 @@
+{
+  "licencas": {
+    "5AYS7Z6S": {
+      "nome": "Cadersil",
+      "status": "liberado",
+      "validade": "2026-12-31",
+      "max_aparelhos": 50,
+      "aparelhos": {}
+    }
+  }
+}
