@@ -5,7 +5,12 @@
       "status": "liberado",
       "validade": "2026-12-31",
       "max_aparelhos": 50,
-      "aparelhos": {}
+      "aparelhos": {
+        "2QKX-A304": {
+          "status": "liberado",
+          "obs": "Primeiro aparelho (instalação 31/10)"
+        }
+      }
     }
   }
 }
