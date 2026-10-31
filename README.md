@@ -1,6 +1,6 @@
 # Licenças do Kipu
 
-O agente Kipu de cada empresa lê o `licencas.json` a cada 5 minutos.
+O agente Kipu de cada empresa lê o `licencas.json` a cada 5 minutos, e na hora quando um aparelho pendente tenta entrar.
 
 ## Como liberar um aparelho
 
@@ -13,7 +13,8 @@ O agente Kipu de cada empresa lê o `licencas.json` a cada 5 minutos.
 }
 ```
 
-3. Salve (commit). Em até 5 minutos o aparelho entra.
+3. Salve (commit). A pessoa toca em "tentar de novo" e entra em menos de 1 minuto
+   (agente 0.4.1 ou mais novo). Renovação e bloqueios valem em até 5 minutos.
 
 ## Campos de cada empresa
 
